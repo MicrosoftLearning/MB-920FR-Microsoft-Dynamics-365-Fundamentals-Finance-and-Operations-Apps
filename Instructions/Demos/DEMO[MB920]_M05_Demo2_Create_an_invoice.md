@@ -1,7 +1,7 @@
 ---
 demo:
     title: 'Démonstration 2 : Créer une facture'
-    module: 'Module 5 : Découvrir les principes de base de Microsoft Dynamics 365 Project Operations »
+    module: 'Module 5 : Découvrir les principes de base de Microsoft Dynamics 365 Project Operations'
 ---
 
 ## Démonstration 2 : Créer une facture

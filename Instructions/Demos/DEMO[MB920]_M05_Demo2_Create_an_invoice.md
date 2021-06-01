@@ -1,7 +1,7 @@
 ---
 demo:
     title: 'Démonstration 2 : Créer une facture'
-    module: 'Module 5 : Découvrir les principes de base de Microsoft Dynamics 365 Project Operations »
+    module: 'Module 5 : Découvrir les principes de base de Microsoft Dynamics 365 Project Operations'
 ---
 
 ## Démonstration 2 : Créer une facture
@@ -106,7 +106,7 @@ Ensuite, intéressons-nous au bouton des totaux pour étudier la facture du poin
 Vous pouvez créer un relevé pour la période de votre choix.
 
 1. Sélectionnez la zone **Date de début** et saisissez **01/02/2021**.
-1. 
+
 1. Sélectionnez la zone **Date de fin** et saisissez la date d’aujourd’hui.
 
 1. Une fois terminé, sélectionnez **Calculer**.

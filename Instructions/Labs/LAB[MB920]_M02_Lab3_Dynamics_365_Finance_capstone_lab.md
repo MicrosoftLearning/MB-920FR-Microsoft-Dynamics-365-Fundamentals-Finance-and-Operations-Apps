@@ -332,9 +332,9 @@ Au cours de ce labo, vous découvrirez les fonctions essentielles de Microsoft D
 
 1. Dans le volet Actions, sélectionnez **Valider**.
 
-1. Dans le volet **Valider une facture de test vide**, sous **OPTIONS D’IMPRESSION**, définissez l’option **Imprimer la facture** sur **Oui**, puis sélectionnez OK.
+1. Dans le volet **Valider une facture de test vide**, sous **OPTIONS D’IMPRESSION**, définissez l’option **Imprimer la facture** sur **Oui**, puis sélectionnez **OK**.
 
-1. Dans le volet **Paramètres de destination d’impression**, sélectionnez OK pour afficher la facture à l’écran.
+1. Dans le volet **Paramètres de destination d’impression**, sélectionnez **OK** pour afficher la facture à l’écran.
 
 1. Vérifiez-la, puis, une fois que vous avez terminé, fermez la facture.
 

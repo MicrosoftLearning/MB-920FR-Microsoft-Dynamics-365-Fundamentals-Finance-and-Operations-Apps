@@ -137,7 +137,7 @@ Au cours de ce labo, vous découvrirez les bases de la configuration d’un siè
 
 1. Dans le volet Actions, sélectionnez **Éditer**.
 
-1. Dans la boîte de dialogue de confirmation, sélectionnez **Oui**.
+1. Dans la boîte de dialogue de **confirmation**, sélectionnez **Oui**.
 
 1. Sur la page AW-Outlet, sélectionnez l’onglet **Produits**.
 

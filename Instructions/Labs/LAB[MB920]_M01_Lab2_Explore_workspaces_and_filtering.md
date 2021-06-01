@@ -75,7 +75,7 @@ De nombreux espaces de travail intégrés sont disponibles lorsque vous vous con
 
     ![Capture d’écran du filtre permettant de trouver Contoso](./media/m1-common-filter-vendor-contoso.png)
 
-1. Sélectionnez **Nom : "Contoso"**, puis consultez les résultats du filtre.
+1. Sélectionnez **Nom : « Contoso »**, puis consultez les résultats du filtre.
 
 1. Effacez la zone de filtre, puis appuyez sur Entrée pour afficher tous les fournisseurs.
 

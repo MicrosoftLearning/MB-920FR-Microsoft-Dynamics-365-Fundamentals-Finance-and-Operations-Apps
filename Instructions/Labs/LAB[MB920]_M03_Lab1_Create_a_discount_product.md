@@ -32,7 +32,7 @@ Le magasin de Boston de votre entreprise est prêt à stimuler les ventes de cer
 
 1. Sélectionnez le menu **Mode de simultanéité de la remise**, passez en revue les options disponibles, puis sélectionnez **Meilleur prix**.
 
-    >[!NOTE] Lorsque vous choisissez entre les options de mode concurrentiel, gardez à l’esprit les éléments suivants :
+    >[!REMARQUE] Lorsque vous choisissez entre les options de mode concurrentiel, gardez à l’esprit les éléments suivants :
     >
     >  - Lorsque plusieurs remises composées sont applicables, la remise la plus élevée sera toujours calculée en premier.  La remise la plus élevée suivante est ensuite calculée sur le montant restant.  Cette hiérarchie de calcul se poursuit jusqu’à ce que toutes les remises composées applicables aient été appliquées.  
     >    **Correct** : Réduction de 40 % + réduction de 20 % = réduction de 52 %  

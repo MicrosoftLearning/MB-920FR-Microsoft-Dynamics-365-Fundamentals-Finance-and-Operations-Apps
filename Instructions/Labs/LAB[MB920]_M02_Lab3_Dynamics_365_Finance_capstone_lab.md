@@ -216,7 +216,7 @@ Au cours de ce labo, vous découvrirez les fonctions essentielles de Microsoft D
     | Numéro d’article| S0001|
     | Quantité| 2|
 
-    >[!NOTE] Vous devrez faire défiler l’écran vers la droite pour afficher la colonne **Quantité**.
+    >[!REMARQUE] Vous devrez faire défiler l’écran vers la droite pour afficher la colonne **Quantité**.
 
 1. Dans le volet Actions, sélectionnez **Enregistrer**.
 

@@ -34,7 +34,7 @@ Maintenant que vous vous êtes familiarisé avec les applications Finance and Op
 
         pass@word1
 
-    >[!Note] Il est possible qu’Internet Explorer s’ouvre automatiquement sur le Bureau. Si vous n’avez pas encore terminé les étapes 2 à 5, terminez-les avant de retourner sur Internet Explorer.
+    >[!Remarque] Il est possible qu’Internet Explorer s’ouvre automatiquement sur le Bureau. Si vous n’avez pas encore terminé les étapes 2 à 5, terminez-les avant de retourner sur Internet Explorer.
 
 1. Sélectionnez le fichier **AdminUserProvisioning** sur le Bureau.
 

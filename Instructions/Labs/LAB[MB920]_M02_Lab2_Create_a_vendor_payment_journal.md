@@ -47,7 +47,7 @@ Créez une nouvelle entrée dans le journal des paiements fournisseur ainsi qu�
 
 1. Dans les champs **Date de début** et **Date de fin**, supprimez toute valeur existante. Pour cet exercice, ces plages de dates sont laissées vides.
 
-    >[!NOTE] Vous pouvez utiliser une date de paiement minimale comme date de paiement. La date de paiement minimale est la première date utilisée lors de la création des paiements. Par exemple, si une facture a une date d’échéance après la date de paiement minimale, la date d’échéance devient la date de paiement au lieu de la date de paiement minimale pour payer la facture à la dernière date possible.
+    >[!REMARQUE] Vous pouvez utiliser une date de paiement minimale comme date de paiement. La date de paiement minimale est la première date utilisée lors de la création des paiements. Par exemple, si une facture a une date d’échéance après la date de paiement minimale, la date d’échéance devient la date de paiement au lieu de la date de paiement minimale pour payer la facture à la dernière date possible.
 
 1. Développez **Enregistrements à inclure** et examinez les options.  
     Le filtre est souvent utilisé pour restreindre le nombre de factures sélectionnées pour le paiement par groupe de fournisseurs ou par mode de paiement. Par exemple, vous pourriez ajouter un filtre pour payer uniquement les factures par chèque dans ce cycle de paie.

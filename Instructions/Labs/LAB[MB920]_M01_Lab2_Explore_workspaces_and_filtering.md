@@ -45,7 +45,7 @@ De nombreux espaces de travail intégrés sont disponibles lorsque vous vous con
 
 1. Sélectionnez votre vignette **Mon espace de travail**, puis déplacez-la vers un autre emplacement sur la page d’accueil.
 
-    >[!Note] Si vous ne parvenez pas à déplacer la vignette, actualisez la page et réessayez les étapes précédentes afin de la déplacer.
+    >[!Remarque] Si vous ne parvenez pas à déplacer la vignette, actualisez la page et réessayez les étapes précédentes afin de la déplacer.
 
 1. Fermez la barre d’outils.
 

@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Labo 7 : Créer un ordre de travail de maintenance'
     module: 'Module 1 : Découvrir les principes de base de Microsoft Dynamics 365 Supply Chain Management'

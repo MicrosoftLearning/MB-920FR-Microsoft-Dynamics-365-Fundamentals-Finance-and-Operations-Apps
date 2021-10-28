@@ -109,11 +109,11 @@ Vous trouverez vos identifiants dans le menu **Ressources** situé dans le coin 
 
 1. Mettez en surbrillance l’un des fournisseurs de la liste, cliquez sur le menu **Informations associées** à droite, puis passez en revue les informations supplémentaires fournies.
 
-1. Dans la liste des fournisseurs, sélectionnez **Northwind Traders**.
+1. Dans la liste des fournisseurs, sélectionnez **Fournitures de bureau ACME**.
 
 1. Cliquez sur le menu **Groupe**, puis sélectionnez le titre de colonne **Groupe de fournisseurs**.
 
-    ![Capture d’écran du titre de colonne Groupe de fournisseurs pour Northwind Traders](./media/m1-common-all-vendor-group-menu.png)
+    ![Capture d’écran du titre de colonne Fournitures de bureau ACME du groupe Fournisseurs.](./media/m1-common-vendor-group-menu-24493345.png)
 
 1. De nombreux menus proposent des options de tri et de filtrage. Utilisez les filtres pour trouver rapidement le contenu de champ que vous recherchez.
 
